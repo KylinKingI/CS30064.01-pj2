@@ -1,0 +1,87 @@
+Total parameters: 3,005,706
+Training:   0%|                                                                                                                       | 0/50 [00:00<?, ?it/s][Epoch 1] New best model saved with val_acc: 0.5608
+Epoch [1/50] - Train Loss: 1.4144, Train Acc: 0.5566, Val Acc: 0.5608
+Training:   2%|██▏                                                                                                            | 1/50 [00:11<09:41, 11.86s/it][Epoch 2] New best model saved with val_acc: 0.7199
+Epoch [2/50] - Train Loss: 0.9271, Train Acc: 0.7075, Val Acc: 0.7199
+Training:   4%|████▍                                                                                                          | 2/50 [00:22<08:51, 11.07s/it][Epoch 3] New best model saved with val_acc: 0.7407
+Epoch [3/50] - Train Loss: 0.7435, Train Acc: 0.7310, Val Acc: 0.7407
+Training:   6%|██████▋                                                                                                        | 3/50 [00:32<08:23, 10.71s/it][Epoch 4] New best model saved with val_acc: 0.7802
+Epoch [4/50] - Train Loss: 0.6353, Train Acc: 0.7852, Val Acc: 0.7802
+Training:   8%|████████▉                                                                                                      | 4/50 [00:43<08:06, 10.57s/it][Epoch 5] New best model saved with val_acc: 0.7855
+Epoch [5/50] - Train Loss: 0.5660, Train Acc: 0.7909, Val Acc: 0.7855
+Training:  10%|███████████                                                                                                    | 5/50 [00:53<07:46, 10.37s/it][Epoch 6] New best model saved with val_acc: 0.7980
+Epoch [6/50] - Train Loss: 0.5029, Train Acc: 0.8090, Val Acc: 0.7980
+Training:  12%|█████████████▎                                                                                                 | 6/50 [01:03<07:30, 10.23s/it][Epoch 7] New best model saved with val_acc: 0.8094
+Epoch [7/50] - Train Loss: 0.4610, Train Acc: 0.8211, Val Acc: 0.8094
+Training:  14%|███████████████▌                                                                                               | 7/50 [01:13<07:17, 10.17s/it][Epoch 8] New best model saved with val_acc: 0.8310
+Epoch [8/50] - Train Loss: 0.4236, Train Acc: 0.8441, Val Acc: 0.8310
+Training:  16%|█████████████████▊                                                                                             | 8/50 [01:23<07:05, 10.14s/it][Epoch 9] New best model saved with val_acc: 0.8364
+Epoch [9/50] - Train Loss: 0.3873, Train Acc: 0.8547, Val Acc: 0.8364
+Training:  18%|███████████████████▉                                                                                           | 9/50 [01:33<06:57, 10.19s/it]Epoch [10/50] - Train Loss: 0.3639, Train Acc: 0.8495, Val Acc: 0.8359
+Training:  20%|██████████████████████                                                                                        | 10/50 [01:43<06:43, 10.08s/it][Epoch 11] New best model saved with val_acc: 0.8523
+Epoch [11/50] - Train Loss: 0.3392, Train Acc: 0.8765, Val Acc: 0.8523
+Training:  22%|████████████████████████▏                                                                                     | 11/50 [01:53<06:35, 10.15s/it][Epoch 12] New best model saved with val_acc: 0.8648
+Epoch [12/50] - Train Loss: 0.3138, Train Acc: 0.8986, Val Acc: 0.8648
+Training:  24%|██████████████████████████▍                                                                                   | 12/50 [02:03<06:23, 10.10s/it]Epoch [13/50] - Train Loss: 0.2932, Train Acc: 0.8896, Val Acc: 0.8623
+Training:  26%|████████████████████████████▌                                                                                 | 13/50 [02:13<06:13, 10.10s/it]Epoch [14/50] - Train Loss: 0.2762, Train Acc: 0.8957, Val Acc: 0.8607
+Training:  28%|██████████████████████████████▊                                                                               | 14/50 [02:23<06:03, 10.09s/it][Epoch 15] New best model saved with val_acc: 0.8721
+Epoch [15/50] - Train Loss: 0.2583, Train Acc: 0.9116, Val Acc: 0.8721
+Training:  30%|█████████████████████████████████                                                                             | 15/50 [02:33<05:53, 10.11s/it][Epoch 16] New best model saved with val_acc: 0.8754
+Epoch [16/50] - Train Loss: 0.2454, Train Acc: 0.9111, Val Acc: 0.8754
+Training:  32%|███████████████████████████████████▏                                                                          | 16/50 [02:44<05:43, 10.12s/it]Epoch [17/50] - Train Loss: 0.2270, Train Acc: 0.9159, Val Acc: 0.8732
+Training:  34%|█████████████████████████████████████▍                                                                        | 17/50 [02:54<05:34, 10.13s/it]Epoch [18/50] - Train Loss: 0.2132, Train Acc: 0.9107, Val Acc: 0.8695
+Training:  36%|███████████████████████████████████████▌                                                                      | 18/50 [03:04<05:26, 10.20s/it][Epoch 19] New best model saved with val_acc: 0.8946
+Epoch [19/50] - Train Loss: 0.2019, Train Acc: 0.9367, Val Acc: 0.8946
+Training:  38%|█████████████████████████████████████████▊                                                                    | 19/50 [03:15<05:19, 10.30s/it][Epoch 20] New best model saved with val_acc: 0.8947
+Epoch [20/50] - Train Loss: 0.1870, Train Acc: 0.9425, Val Acc: 0.8947
+Training:  40%|████████████████████████████████████████████                                                                  | 20/50 [03:25<05:07, 10.26s/it]Epoch [21/50] - Train Loss: 0.1766, Train Acc: 0.9329, Val Acc: 0.8864
+Training:  42%|██████████████████████████████████████████████▏                                                               | 21/50 [03:35<04:55, 10.20s/it]Epoch [22/50] - Train Loss: 0.1587, Train Acc: 0.9437, Val Acc: 0.8883
+Training:  44%|████████████████████████████████████████████████▍                                                             | 22/50 [03:45<04:44, 10.17s/it]Epoch [23/50] - Train Loss: 0.1455, Train Acc: 0.9311, Val Acc: 0.8806
+Training:  46%|██████████████████████████████████████████████████▌                                                           | 23/50 [03:55<04:34, 10.18s/it]Epoch [24/50] - Train Loss: 0.1409, Train Acc: 0.9443, Val Acc: 0.8836
+Training:  48%|████████████████████████████████████████████████████▊                                                         | 24/50 [04:05<04:23, 10.12s/it][Epoch 25] New best model saved with val_acc: 0.9021
+Epoch [25/50] - Train Loss: 0.1287, Train Acc: 0.9584, Val Acc: 0.9021
+Training:  50%|███████████████████████████████████████████████████████                                                       | 25/50 [04:15<04:13, 10.16s/it]Epoch [26/50] - Train Loss: 0.1162, Train Acc: 0.9527, Val Acc: 0.8967
+Training:  52%|█████████████████████████████████████████████████████████▏                                                    | 26/50 [04:26<04:06, 10.27s/it]Epoch [27/50] - Train Loss: 0.1133, Train Acc: 0.9659, Val Acc: 0.9009
+Training:  54%|███████████████████████████████████████████████████████████▍                                                  | 27/50 [04:36<03:58, 10.36s/it]Epoch [28/50] - Train Loss: 0.1007, Train Acc: 0.9644, Val Acc: 0.8999
+Training:  56%|█████████████████████████████████████████████████████████████▌                                                | 28/50 [04:47<03:48, 10.40s/it][Epoch 29] New best model saved with val_acc: 0.9044
+Epoch [29/50] - Train Loss: 0.0919, Train Acc: 0.9697, Val Acc: 0.9044
+Training:  58%|███████████████████████████████████████████████████████████████▊                                              | 29/50 [04:57<03:39, 10.45s/it][Epoch 30] New best model saved with val_acc: 0.9064
+Epoch [30/50] - Train Loss: 0.0827, Train Acc: 0.9748, Val Acc: 0.9064
+Training:  60%|██████████████████████████████████████████████████████████████████                                            | 30/50 [05:08<03:29, 10.45s/it]Epoch [31/50] - Train Loss: 0.0754, Train Acc: 0.9662, Val Acc: 0.8968
+Training:  62%|████████████████████████████████████████████████████████████████████▏                                         | 31/50 [05:19<03:19, 10.51s/it][Epoch 32] New best model saved with val_acc: 0.9091
+Epoch [32/50] - Train Loss: 0.0700, Train Acc: 0.9766, Val Acc: 0.9091
+Training:  64%|██████████████████████████████████████████████████████████████████████▍                                       | 32/50 [05:29<03:07, 10.39s/it][Epoch 33] New best model saved with val_acc: 0.9106
+Epoch [33/50] - Train Loss: 0.0592, Train Acc: 0.9816, Val Acc: 0.9106
+Training:  66%|████████████████████████████████████████████████████████████████████████▌                                     | 33/50 [05:39<02:55, 10.34s/it][Epoch 34] New best model saved with val_acc: 0.9115
+Epoch [34/50] - Train Loss: 0.0544, Train Acc: 0.9843, Val Acc: 0.9115
+Training:  68%|██████████████████████████████████████████████████████████████████████████▊                                   | 34/50 [05:49<02:46, 10.40s/it]Epoch [35/50] - Train Loss: 0.0468, Train Acc: 0.9871, Val Acc: 0.9113
+Training:  70%|█████████████████████████████████████████████████████████████████████████████                                 | 35/50 [06:00<02:34, 10.32s/it]Epoch [36/50] - Train Loss: 0.0430, Train Acc: 0.9874, Val Acc: 0.9115
+Training:  72%|███████████████████████████████████████████████████████████████████████████████▏                              | 36/50 [06:10<02:23, 10.22s/it]Epoch [37/50] - Train Loss: 0.0372, Train Acc: 0.9872, Val Acc: 0.9113
+Training:  74%|█████████████████████████████████████████████████████████████████████████████████▍                            | 37/50 [06:20<02:13, 10.30s/it][Epoch 38] New best model saved with val_acc: 0.9138
+Epoch [38/50] - Train Loss: 0.0322, Train Acc: 0.9915, Val Acc: 0.9138
+Training:  76%|███████████████████████████████████████████████████████████████████████████████████▌                          | 38/50 [06:30<02:02, 10.21s/it]Epoch [39/50] - Train Loss: 0.0289, Train Acc: 0.9892, Val Acc: 0.9126
+Training:  78%|█████████████████████████████████████████████████████████████████████████████████████▊                        | 39/50 [06:40<01:52, 10.18s/it][Epoch 40] New best model saved with val_acc: 0.9159
+Epoch [40/50] - Train Loss: 0.0262, Train Acc: 0.9914, Val Acc: 0.9159
+Training:  80%|████████████████████████████████████████████████████████████████████████████████████████                      | 40/50 [06:51<01:42, 10.27s/it][Epoch 41] New best model saved with val_acc: 0.9184
+Epoch [41/50] - Train Loss: 0.0231, Train Acc: 0.9942, Val Acc: 0.9184
+Training:  82%|██████████████████████████████████████████████████████████████████████████████████████████▏                   | 41/50 [07:01<01:31, 10.21s/it]Epoch [42/50] - Train Loss: 0.0208, Train Acc: 0.9948, Val Acc: 0.9184
+Training:  84%|████████████████████████████████████████████████████████████████████████████████████████████▍                 | 42/50 [07:11<01:21, 10.15s/it][Epoch 43] New best model saved with val_acc: 0.9194
+Epoch [43/50] - Train Loss: 0.0176, Train Acc: 0.9951, Val Acc: 0.9194
+Training:  86%|██████████████████████████████████████████████████████████████████████████████████████████████▌               | 43/50 [07:21<01:11, 10.28s/it][Epoch 44] New best model saved with val_acc: 0.9195
+Epoch [44/50] - Train Loss: 0.0183, Train Acc: 0.9954, Val Acc: 0.9195
+Training:  88%|████████████████████████████████████████████████████████████████████████████████████████████████▊             | 44/50 [07:31<01:01, 10.22s/it]Epoch [45/50] - Train Loss: 0.0166, Train Acc: 0.9962, Val Acc: 0.9190
+Training:  90%|███████████████████████████████████████████████████████████████████████████████████████████████████           | 45/50 [07:42<00:50, 10.19s/it][Epoch 46] New best model saved with val_acc: 0.9202
+Epoch [46/50] - Train Loss: 0.0164, Train Acc: 0.9961, Val Acc: 0.9202
+Training:  92%|█████████████████████████████████████████████████████████████████████████████████████████████████████▏        | 46/50 [07:52<00:40, 10.16s/it][Epoch 47] New best model saved with val_acc: 0.9209
+Epoch [47/50] - Train Loss: 0.0153, Train Acc: 0.9964, Val Acc: 0.9209
+Training:  94%|███████████████████████████████████████████████████████████████████████████████████████████████████████▍      | 47/50 [08:02<00:30, 10.24s/it]Epoch [48/50] - Train Loss: 0.0145, Train Acc: 0.9962, Val Acc: 0.9199
+Training:  96%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▌    | 48/50 [08:12<00:20, 10.15s/it]Epoch [49/50] - Train Loss: 0.0151, Train Acc: 0.9960, Val Acc: 0.9194
+Training:  98%|███████████████████████████████████████████████████████████████████████████████████████████████████████████▊  | 49/50 [08:23<00:10, 10.28s/it]Epoch [50/50] - Train Loss: 0.0140, Train Acc: 0.9956, Val Acc: 0.9194
+Training: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [08:33<00:00, 10.27s/it]
+Training completed. Best Val Acc: 0.9209
+
+Final test accuracy: 0.9209
+
+Generating visualizations...
+
+All results saved to: ./saved
