@@ -10,7 +10,7 @@ Course project for *Neural Network and Deep Learning* (2026).
 ## Directory Structure
 
 ```
-PJ2_2026/
+CS30064.01-pj2/
 ├── report.tex              # LaTeX report
 ├── project_2_2026.pdf      # Project specification
 ├── codes/
